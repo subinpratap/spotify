@@ -1,5 +1,5 @@
-# spotify
-Spotify App using React + Redux
+# spotify App using React + Redux
+
 Web app using Spotify’s developer’s API. Added functionalities like:
 -	Playing a song (with local playback controls)
 -	Fetch recommendations, popular releases and genres
