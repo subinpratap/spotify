@@ -26,4 +26,4 @@ Setting up code in local:
 
 
 NOTE:
-The main purpose of developing this app was to get some hands on react/redux and explore some of the core functionalities. There's a lot of scope for improvement in areas like CSS/code reusablity, componentization ect which I'll be fixing in future commits.
+The main purpose of developing this app was to get some hands on react/redux and explore some of the core functionalities. There's a lot of scope for improvement in areas like CSS/code reusablity, componentization ect.
